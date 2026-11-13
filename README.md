@@ -6,6 +6,7 @@ Python 가상환경 구축부터 Tensor 생성, 인덱싱, 구조 변경, 벡터
 
 - [최종 제출 PDF·노트북](submissions/README.md)
 - [실습 전체 코드와 저장된 실행 결과](docs/code-and-results.md)
+- [오류 원인·해결 과정과 shape 비교](docs/error-analysis.md)
 - [Part 1~5 상세 해설](01-pytorch-tensor-basics/README.md)
 - [학습용 노트북](01-pytorch-tensor-basics/notebooks/pytorch-tensor-basics.ipynb)
 - [설치 패키지 목록](requirements.txt)
@@ -65,4 +66,4 @@ JupyterLab에서 `01-pytorch-tensor-basics/notebooks/pytorch-tensor-basics.ipynb
 | `docs/code-and-results.md` | 노트북 코드·텍스트 출력·예외 메시지 전체 정리 |
 | `requirements.txt` | 과제에서 사용한 기본 의존성 목록 |
 
-최종 제출본 두 파일은 기존 보관 파일과 바이트 단위로 비교해 동일함을 확인했습니다. 학습용 노트북의 저장된 출력은 보존했으며, 이번 정리에서는 노트북을 다시 실행하지 않았습니다.
+최종 제출 노트북은 보관된 최신 제출본과 Git blob SHA가 일치함을 확인했습니다. 학습용 노트북의 저장된 출력은 보존했으며, 이번 정리에서는 노트북을 다시 실행하지 않았습니다.
